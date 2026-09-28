@@ -4,6 +4,8 @@ Skybox helps you identify the sky, explore the Solar System and plan photographs
 
 For help or to report a problem, email [bw05@xs4all.nl](mailto:bw05@xs4all.nl). Include your iPhone model, iOS version, Skybox version and the steps that led to the problem. Describe what you expected and what happened instead. Do not include private observing locations or saved-plan details unless they are needed and you choose to share them. No diagnostic files are sent automatically.
 
+Support emails are handled only by Bastiaan van den Heuvel. They may be kept until the issue is resolved, then are deleted within 30 days.
+
 ## Common questions
 
 **Can I use Skybox without camera or location access?** Yes. Choose a site manually and use the virtual sky, Solar System, photography planner and calculators. Camera access is needed only for the camera overlay; location access is optional when choosing your current location.
