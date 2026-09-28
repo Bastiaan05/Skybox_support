@@ -6,6 +6,8 @@ For help or to report a problem, email [bw05@xs4all.nl](mailto:bw05@xs4all.nl). 
 
 Support emails are handled only by Bastiaan van den Heuvel. They may be kept until the issue is resolved, then are deleted within 30 days.
 
+If you opt in to sharing diagnostics with app developers in iOS privacy settings, reports Apple supplies may be used solely to improve or fix Skybox. We do not use those reports to identify you or link them to your support emails. Skybox includes no analytics or crash-reporting SDK.
+
 ## Common questions
 
 **Can I use Skybox without camera or location access?** Yes. Choose a site manually and use the virtual sky, Solar System, photography planner and calculators. Camera access is needed only for the camera overlay; location access is optional when choosing your current location.
